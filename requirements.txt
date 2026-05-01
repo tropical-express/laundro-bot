@@ -1,0 +1,30 @@
+# HTTP requests
+requests
+
+# Environment variables
+python-dotenv
+
+# Data handling
+pandas
+
+# Database (SQLite built-in but helpers useful)
+sqlalchemy
+
+# OpenStreetMap / geolocation
+geopy
+overpy
+
+# Google review scraping (optional but useful)
+beautifulsoup4
+lxml
+
+# Sentiment analysis
+textblob
+vaderSentiment
+
+# Optional dashboard (later)
+dash
+plotly
+
+# Optional API server (if you add later)
+flask

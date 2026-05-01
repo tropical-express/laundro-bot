@@ -1,0 +1,14 @@
+# Unesccessary junk
+data/
+*.usa
+
+# Enviroment Variables
+*.env
+
+# Powershell
+*.ps1
+
+# SQLite Database files
+*.db
+*.sql
+
